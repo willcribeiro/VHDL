@@ -1,0 +1,80 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/willi/Desktop/Nova pasta
+Ebasiclogic
+Z0 w1534640814
+Z1 dC:/Users/willi/Documents/GitHub/VHDL/BIN-BCD convert
+Z2 8C:/Users/willi/Documents/GitHub/VHDL/BIN-BCD convert/logic.vhd
+Z3 FC:/Users/willi/Documents/GitHub/VHDL/BIN-BCD convert/logic.vhd
+l0
+L1
+VzCTAID^3o045zZ3ggaJbZ3
+!s100 WnCbLi]SG]7^3gYR=Uj4j2
+Z4 OV;C;10.5c;63
+32
+Z5 !s110 1534640820
+!i10b 1
+Z6 !s108 1534640820.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/willi/Documents/GitHub/VHDL/BIN-BCD convert/logic.vhd|
+Z8 !s107 C:/Users/willi/Documents/GitHub/VHDL/BIN-BCD convert/logic.vhd|
+!i113 1
+Z9 o-work work -2002 -explicit
+Z10 tExplicit 1 CvgOpt 0
+Ackt
+DEx4 work 10 basiclogic 0 22 zCTAID^3o045zZ3ggaJbZ3
+l10
+L8
+VZMMdRIP_2:[?de7:o2ZCz1
+!s100 1WgLnOe_eE9b]zohk8;k20
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Emain
+Z11 w1534642658
+R1
+Z12 8C:/Users/willi/Documents/GitHub/VHDL/BIN-BCD convert/main.vhd
+Z13 FC:/Users/willi/Documents/GitHub/VHDL/BIN-BCD convert/main.vhd
+l0
+L2
+VR_bVI81HDV?V=6KRd2gIc2
+!s100 IB[kSD2T^I:jmVh[NB6D81
+R4
+32
+Z14 !s110 1534642664
+!i10b 1
+Z15 !s108 1534642664.000000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/willi/Documents/GitHub/VHDL/BIN-BCD convert/main.vhd|
+Z17 !s107 C:/Users/willi/Documents/GitHub/VHDL/BIN-BCD convert/main.vhd|
+!i113 1
+R9
+R10
+Ackt
+Z18 DEx4 work 4 main 0 22 R_bVI81HDV?V=6KRd2gIc2
+l23
+L9
+VXgXB:aI_>]dcC:?CUaUn23
+!s100 =7Oom4]]z[[=B8i?BeVF12
+R4
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R9
+R10
