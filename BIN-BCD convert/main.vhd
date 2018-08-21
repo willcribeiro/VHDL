@@ -19,6 +19,7 @@ end component;
 
 signal BX0,BX1,BX2,BX3,BX4,BX5,BX6 : bit_vector(3 downto 0);
 signal HEX0,HEX1,HEX2 : bit_vector(3 downto 0);
+signal SD0,SD1,SD2 : bit_vector(6 downto 0);
 
 	begin
 		
@@ -76,6 +77,34 @@ signal HEX0,HEX1,HEX2 : bit_vector(3 downto 0);
 		HEX1(0) <= BX6(3);
 		HEX0(3 downto 1) <= BX6(2 downto 0);
 		HEX0(0) <= SW(0);
+
+		
+		
+		SD0(0) <= ((not HEX0(0)) and (not HEX0(2))) or HEX0(1) or HEX0(3) or (HEX0(2) and HEX0(0));
+		SD0(1) <= (not HEX0(2)) or HEX0(3) or ((not HEX0(1)) and (not HEX0(0))) or (HEX0(1) and HEX0(0));
+		SD0(2) <= (not HEX0(1)) or HEX0(0) or ((not HEX0(3)) and HEX0(2));
+		SD0(3) <= ((not HEX0(2)) and (not HEX0(0))) or ((not HEX0(2)) and HEX0(1)) or (HEX0(1) and (not HEX0(0))) or (HEX0(2) and (not HEX0(1)) and HEX0(0));
+		SD0(4) <= (HEX0(1) and (not HEX0(0))) or ((not HEX0(2)) and (not HEX0(0)));
+		SD0(5) <= HEX0(3) or ((not HEX0(1)) and (not HEX0(0))) or (HEX0(2) and (not HEX0(1))) or (HEX0(2) and (not HEX0(0)));
+		SD0(6) <= (HEX0(2) and (not HEX0(1))) or (HEX0(1) and (not HEX0(0))) or HEX0(3) or ((not HEX0(2)) and HEX0(1));
+
+		SD1(0) <= ((not HEX1(0)) and (not HEX1(2))) or HEX1(1) or HEX1(3) or (HEX1(2) and HEX1(0));
+		SD1(1) <= (not HEX1(2)) or HEX1(3) or ((not HEX1(1)) and (not HEX1(0))) or (HEX1(1) and HEX1(0));
+		SD1(2) <= (not HEX1(1)) or HEX1(0) or ((not HEX1(3)) and HEX1(2));
+		SD1(3) <= ((not HEX1(2)) and (not HEX1(0))) or ((not HEX1(2)) and HEX1(1)) or (HEX1(1) and (not HEX1(0))) or (HEX1(2) and (not HEX1(1)) and HEX1(0));
+		SD1(4) <= (HEX1(1) and (not HEX1(0))) or ((not HEX1(2)) and (not HEX1(0)));
+		SD1(5) <= HEX1(3) or ((not HEX1(1)) and (not HEX1(0))) or (HEX1(2) and (not HEX1(1))) or (HEX1(2) and (not HEX1(0)));
+		SD1(6) <= (HEX1(2) and (not HEX1(1))) or (HEX1(1) and (not HEX1(0))) or HEX1(3) or ((not HEX1(2)) and HEX1(1));
+
+		SD2(0) <= ((not HEX2(0)) and (not HEX2(2))) or HEX2(1) or HEX2(3) or (HEX2(2) and HEX2(0));
+		SD2(1) <= (not HEX2(2)) or HEX2(3) or ((not HEX2(1)) and (not HEX2(0))) or (HEX2(1) and HEX2(0));
+		SD2(2) <= (not HEX2(1)) or HEX2(0) or ((not HEX2(3)) and HEX2(2));
+		SD2(3) <= ((not HEX2(2)) and (not HEX2(0))) or ((not HEX2(2)) and HEX2(1)) or (HEX2(1) and (not HEX2(0))) or (HEX2(2) and (not HEX2(1)) and HEX2(0));
+		SD2(4) <= (HEX2(1) and (not HEX2(0))) or ((not HEX2(2)) and (not HEX2(0)));
+		SD2(5) <= HEX2(3) or ((not HEX2(1)) and (not HEX2(0))) or (HEX2(2) and (not HEX2(1))) or (HEX2(2) and (not HEX2(0)));
+		SD2(6) <= (HEX2(2) and (not HEX2(1))) or (HEX2(1) and (not HEX2(0))) or HEX2(3) or ((not HEX2(2)) and HEX2(1));
+
+
 
 		
 
