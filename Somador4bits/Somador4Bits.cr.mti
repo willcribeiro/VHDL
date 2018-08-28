@@ -1,4 +1,10 @@
-C:/Users/willi/Documents/GitHub/VHDL/Somador4bits/somador1bit.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/willi/Documents/GitHub/VHDL/Somador4bits/somador1bit.vhd
+C:/Users/willi/Documents/GitHub/VHDL/Somador4bits/main.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/willi/Documents/GitHub/VHDL/Somador4bits/main.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5c Compiler 2017.01 Jan 23 2017
+-- Loading package STANDARD
+-- Compiling entity main
+-- Compiling architecture ckt2 of main
+
+} {} {}} C:/Users/willi/Documents/GitHub/VHDL/Somador4bits/somador1bit.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/willi/Documents/GitHub/VHDL/Somador4bits/somador1bit.vhd
 Model Technology ModelSim - Intel FPGA Edition vcom 10.5c Compiler 2017.01 Jan 23 2017
 -- Loading package STANDARD
 -- Compiling entity soma1bit
