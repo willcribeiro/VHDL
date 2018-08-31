@@ -1,0 +1,150 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/willi/Documents/GitHub/VHDL/Somador4bits
+Emultiplexador
+Z0 w1535557489
+Z1 dC:/Users/willi/Documents/GitHub/VHDL/Potency
+Z2 8C:/Users/willi/Documents/GitHub/VHDL/Potency/mux.vhd
+Z3 FC:/Users/willi/Documents/GitHub/VHDL/Potency/mux.vhd
+l0
+L1
+VE;;:W=g4oAaUED6I`fMME1
+!s100 eY_;eg<o6]KSkW:635CjH0
+Z4 OV;C;10.5c;63
+32
+Z5 !s110 1535557494
+!i10b 1
+Z6 !s108 1535557494.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/willi/Documents/GitHub/VHDL/Potency/mux.vhd|
+Z8 !s107 C:/Users/willi/Documents/GitHub/VHDL/Potency/mux.vhd|
+!i113 1
+Z9 o-work work -2002 -explicit
+Z10 tExplicit 1 CvgOpt 0
+Ackt
+DEx4 work 13 multiplexador 0 22 E;;:W=g4oAaUED6I`fMME1
+l9
+L7
+V^;XXGEV=c9CiA7a]z[o9Q1
+!s100 :Tgb6R0`oIXkl;1:>?dEk3
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Emultiplexador4
+Z11 w1535558009
+R1
+Z12 8C:/Users/willi/Documents/GitHub/VHDL/Potency/mux4.vhd
+Z13 FC:/Users/willi/Documents/GitHub/VHDL/Potency/mux4.vhd
+l0
+L1
+VUF:A=dWBGA@b>X9?`CVlK1
+!s100 ;CiQB89GnLaQW`WL1F18a3
+R4
+32
+Z14 !s110 1535558012
+!i10b 1
+Z15 !s108 1535558012.000000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/willi/Documents/GitHub/VHDL/Potency/mux4.vhd|
+Z17 !s107 C:/Users/willi/Documents/GitHub/VHDL/Potency/mux4.vhd|
+!i113 1
+R9
+R10
+Ackt
+Z18 DEx4 work 14 multiplexador4 0 22 UF:A=dWBGA@b>X9?`CVlK1
+l18
+L8
+Vj8Y_E9=?:Z^nUQll_KAgD1
+!s100 SZz1UNV8o7PUF[a2[`X:Y3
+R4
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R9
+R10
+Esoma1bit
+Z19 w1535485372
+R1
+Z20 8C:/Users/willi/Documents/GitHub/VHDL/Somador4bits/somador1bit.vhd
+Z21 FC:/Users/willi/Documents/GitHub/VHDL/Somador4bits/somador1bit.vhd
+l0
+L1
+V3:hdWT^K<cJFCc43CJPkD2
+!s100 68L3:8InQMjK_?_AWCLOP1
+R4
+32
+Z22 !s110 1535485378
+!i10b 1
+Z23 !s108 1535485378.000000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/willi/Documents/GitHub/VHDL/Somador4bits/somador1bit.vhd|
+Z25 !s107 C:/Users/willi/Documents/GitHub/VHDL/Somador4bits/somador1bit.vhd|
+!i113 1
+R9
+R10
+Ackt
+DEx4 work 8 soma1bit 0 22 3:hdWT^K<cJFCc43CJPkD2
+l8
+L6
+VM;1a=EJeZ8ZAhF9;n:U6^3
+!s100 99ROAJNQ5UEfQSXABRe^i3
+R4
+32
+R22
+!i10b 1
+R23
+R24
+R25
+!i113 1
+R9
+R10
+Esoma4bit
+Z26 w1535485930
+R1
+Z27 8C:/Users/willi/Documents/GitHub/VHDL/Somador4bits/somador4bits.vhd
+Z28 FC:/Users/willi/Documents/GitHub/VHDL/Somador4bits/somador4bits.vhd
+l0
+L2
+Vec6ETU8h<TFnC1^gG@oF32
+!s100 llCdW2U]hffRzm;QWG0f@2
+R4
+32
+Z29 !s110 1535485936
+!i10b 1
+Z30 !s108 1535485936.000000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/willi/Documents/GitHub/VHDL/Somador4bits/somador4bits.vhd|
+Z32 !s107 C:/Users/willi/Documents/GitHub/VHDL/Somador4bits/somador4bits.vhd|
+!i113 1
+R9
+R10
+Ackt
+DEx4 work 8 soma4bit 0 22 ec6ETU8h<TFnC1^gG@oF32
+l20
+L9
+VEzz;hS40fFPASCX9`RKK=1
+!s100 LH9[Oz`HkHLi87EXEJCWg3
+R4
+32
+R29
+!i10b 1
+R30
+R31
+R32
+!i113 1
+R9
+R10

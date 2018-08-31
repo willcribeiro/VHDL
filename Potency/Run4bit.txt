@@ -1,0 +1,14 @@
+
+vsim soma4bit
+add wave *
+
+
+
+force As(0) 0 0, 1 2 -repeat 4
+force As(1) 0 0, 1 4 -repeat 8
+force As(2) 0 0, 1 8 -repeat 16
+force As(3) 0 0, 1 16 -repeat 32
+force Cis 0 0
+
+
+run 512
