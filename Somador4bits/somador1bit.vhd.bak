@@ -1,13 +1,13 @@
 entity soma1bit is
- port( A,B,Ci: in bit;
-	C0,S: out bit);
+ port( A,B,Ci,A2: in bit;
+	Co,S: out bit);
 end soma1bit;
 
 architecture ckt of soma1bit is
 
 	begin 
-
-	C0 <= (A and B) or (A and Ci) or (B and Ci);
+	
+	Co <= (A and B) or (A and Ci) or (B and Ci);
 	S <= A xor B xor Ci;
 	
 	

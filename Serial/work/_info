@@ -1,0 +1,150 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/willi/Documents/GitHub/VHDL/Potency
+Ecirx
+Z0 w1537773542
+Z1 dC:/Users/willi/Documents/GitHub/VHDL/Serial
+Z2 8C:/Users/willi/Documents/GitHub/VHDL/Serial/circuitoX.vhd
+Z3 FC:/Users/willi/Documents/GitHub/VHDL/Serial/circuitoX.vhd
+l0
+L1
+VC7?j9b6eZ:oK3=G;6Ri=T2
+!s100 VDU<@ZifI1P<Xng;0Mc=?3
+Z4 OV;C;10.5c;63
+32
+Z5 !s110 1537822207
+!i10b 1
+Z6 !s108 1537822207.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/willi/Documents/GitHub/VHDL/Serial/circuitoX.vhd|
+Z8 !s107 C:/Users/willi/Documents/GitHub/VHDL/Serial/circuitoX.vhd|
+!i113 1
+Z9 o-work work -2002 -explicit
+Z10 tExplicit 1 CvgOpt 0
+Ackt
+DEx4 work 4 cirx 0 22 C7?j9b6eZ:oK3=G;6Ri=T2
+l14
+L6
+VkXm@Y@zD]MiM9fMl^dC360
+!s100 4KCB?m5j@Mc1mV=[aKZD11
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Effd
+Z11 w1537293048
+R1
+Z12 8C:/Users/willi/Documents/GitHub/VHDL/Serial/FFD.vhd
+Z13 FC:/Users/willi/Documents/GitHub/VHDL/Serial/FFD.vhd
+l0
+L1
+VkPi]9^GS5hPnB?M_C>[m^1
+!s100 RbH3E0]=VB]@2BEdOZfI`2
+R4
+32
+Z14 !s110 1537822205
+!i10b 1
+Z15 !s108 1537822204.000000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/willi/Documents/GitHub/VHDL/Serial/FFD.vhd|
+Z17 !s107 C:/Users/willi/Documents/GitHub/VHDL/Serial/FFD.vhd|
+!i113 1
+R9
+R10
+Ackt
+DEx4 work 3 ffd 0 22 kPi]9^GS5hPnB?M_C>[m^1
+l8
+L6
+V2oKURaM[CJU^kF@`YTE<R1
+!s100 BPFmO38A;Mj7giSO^5caO1
+R4
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R9
+R10
+Emain
+Z18 w1537838389
+R1
+Z19 8C:/Users/willi/Documents/GitHub/VHDL/Serial/main.vhd
+Z20 FC:/Users/willi/Documents/GitHub/VHDL/Serial/main.vhd
+l0
+L1
+VJ`]aef^DFJgi>IZ9AUzd00
+!s100 ^dNBKjhPCE1:P4lYmTIia3
+R4
+32
+Z21 !s110 1537838397
+!i10b 1
+Z22 !s108 1537838397.000000
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/willi/Documents/GitHub/VHDL/Serial/main.vhd|
+Z24 !s107 C:/Users/willi/Documents/GitHub/VHDL/Serial/main.vhd|
+!i113 1
+R9
+R10
+Ackt
+Z25 DEx4 work 4 main 0 22 J`]aef^DFJgi>IZ9AUzd00
+l29
+L13
+VADoCz=mYL>2V^30k4>OE:3
+!s100 d]<FUa^GM2C7<S8ia8OZO3
+R4
+32
+R21
+!i10b 1
+R22
+R23
+R24
+!i113 1
+R9
+R10
+Eregi4
+Z26 w1537823839
+R1
+Z27 8C:/Users/willi/Documents/GitHub/VHDL/Serial/circuitoY.vhd
+Z28 FC:/Users/willi/Documents/GitHub/VHDL/Serial/circuitoY.vhd
+l0
+L1
+V55;1N:D0BFR:]IPok<hD00
+!s100 M_n1QPegLZ^D>OagoW@bT0
+R4
+32
+Z29 !s110 1537824004
+!i10b 1
+Z30 !s108 1537824004.000000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/willi/Documents/GitHub/VHDL/Serial/circuitoY.vhd|
+Z32 !s107 C:/Users/willi/Documents/GitHub/VHDL/Serial/circuitoY.vhd|
+!i113 1
+R9
+R10
+Ackt
+DEx4 work 5 regi4 0 22 55;1N:D0BFR:]IPok<hD00
+l16
+L7
+VF=zEEiPObPE8dT^ZW?6@B2
+!s100 ^oBXJDni5OL8L[8_VRL@M3
+R4
+32
+R29
+!i10b 1
+R30
+R31
+R32
+!i113 1
+R9
+R10

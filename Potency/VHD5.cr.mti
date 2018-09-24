@@ -1,0 +1,31 @@
+C:/Users/willi/Documents/GitHub/VHDL/Potency/mux.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/willi/Documents/GitHub/VHDL/Potency/mux.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5c Compiler 2017.01 Jan 23 2017
+-- Loading package STANDARD
+-- Compiling entity mux
+-- Compiling architecture luiz of mux
+
+} {} {}} C:/Users/willi/Documents/GitHub/VHDL/Potency/multi.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/willi/Documents/GitHub/VHDL/Potency/multi.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5c Compiler 2017.01 Jan 23 2017
+-- Loading package STANDARD
+-- Compiling entity multi
+-- Compiling architecture vira2 of multi
+
+} {} {}} C:/Users/willi/Documents/GitHub/VHDL/Potency/mux2.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/willi/Documents/GitHub/VHDL/Potency/mux2.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5c Compiler 2017.01 Jan 23 2017
+-- Loading package STANDARD
+-- Compiling entity mux2
+-- Compiling architecture vira of mux2
+
+} {} {}} C:/Users/willi/Documents/GitHub/VHDL/Potency/somador.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/willi/Documents/GitHub/VHDL/Potency/somador.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5c Compiler 2017.01 Jan 23 2017
+-- Loading package STANDARD
+-- Compiling entity somador
+-- Compiling architecture soma of somador
+
+} {} {}} C:/Users/willi/Documents/GitHub/VHDL/Potency/main.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/willi/Documents/GitHub/VHDL/Potency/main.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5c Compiler 2017.01 Jan 23 2017
+-- Loading package STANDARD
+-- Compiling entity main
+-- Compiling architecture felipe of main
+
+} {} {}}
