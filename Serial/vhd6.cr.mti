@@ -1,0 +1,25 @@
+C:/Users/willi/Documents/GitHub/VHDL/Serial/FFD.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/willi/Documents/GitHub/VHDL/Serial/FFD.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5c Compiler 2017.01 Jan 23 2017
+-- Loading package STANDARD
+-- Compiling entity ffd
+-- Compiling architecture ckt of ffd
+
+} {} {}} C:/Users/willi/Documents/GitHub/VHDL/Serial/circuitoX.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/willi/Documents/GitHub/VHDL/Serial/circuitoX.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5c Compiler 2017.01 Jan 23 2017
+-- Loading package STANDARD
+-- Compiling entity cirx
+-- Compiling architecture ckt of cirx
+
+} {} {}} C:/Users/willi/Documents/GitHub/VHDL/Serial/registrador4.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/willi/Documents/GitHub/VHDL/Serial/registrador4.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5c Compiler 2017.01 Jan 23 2017
+-- Loading package STANDARD
+-- Compiling entity regi4
+-- Compiling architecture ckt of regi4
+
+} {} {}} C:/Users/willi/Documents/GitHub/VHDL/Serial/circuitoY.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/willi/Documents/GitHub/VHDL/Serial/circuitoY.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5c Compiler 2017.01 Jan 23 2017
+-- Loading package STANDARD
+-- Compiling entity regi4
+-- Compiling architecture ckt of regi4
+
+} {} {}}

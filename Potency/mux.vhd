@@ -1,14 +1,17 @@
-entity multiplexador is
- port( I1,I0, Ai: in bit;
-	Q: out bit);
+entity mux is
+    port(A,B : IN bit_vector(3 downto 0);
+         S : IN BIT;
+         Z : OUT bit_vector(3 downto 0)
+    );
 
-end multiplexador;
+end mux;
 
-architecture ckt of multiplexador is
+architecture luiz of mux is
 
-begin 
-	
-	Q <= ((not Ai) and I1)  or (Ai and I0);
-
-end ckt;
-
+    begin
+        Z(0) <= (A(0) AND not S) OR (B(0) AND S);
+        Z(1) <= (A(1) AND not S) OR (B(1) AND S);
+        Z(2) <= (A(2) AND not S) OR (B(2) AND S);
+        Z(3) <= (A(3) AND not S) OR (B(3) AND S);
+    
+end luiz;
